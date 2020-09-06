@@ -18,7 +18,7 @@ namespace Task05
             }
             else
             {
-                Console.WriteLine("error");
+                Console.WriteLine("error!");
             }
         }
     }
